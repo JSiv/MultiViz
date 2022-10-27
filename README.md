@@ -30,7 +30,8 @@ Once available in the Gephi platform, the multiviz plugin can be installed from 
 9. Try different settings and values in the plugin to create a good visualization
 10. Check out the finalized visualization on the preview page and export it as pdf, svg, or png.
 
-
+### Demo 
+Watch how to use the plugin [here](https://youtu.be/asGfis-cRwg)
 
 ### Requirements
 
