@@ -30,6 +30,8 @@ Once available in the Gephi platform, the multiviz plugin can be installed from 
 9. Try different settings and values in the plugin to create a good visualization
 10. Check out the finalized visualization on the preview page and export it as pdf, svg, or png.
 
+
+
 ### Requirements
 
 Running the multiviz plugin requires [Apache Netbeans](https://netbeans.apache.org/), [JDK](https://www.oracle.com/java/technologies/downloads/) 11 or later and [Maven](http://maven.apache.org/).
